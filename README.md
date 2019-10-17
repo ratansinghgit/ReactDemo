@@ -6,8 +6,8 @@ This would install all the dependenices listed in `package.json`
 
 
 ### Run
-Make sure you install yarn locally or globally.
-`npm install -g yarn` 
+for run you project run this command
+`npm start` 
 
 
 
